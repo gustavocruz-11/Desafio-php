@@ -67,14 +67,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 ---
 
-## 🚀 Como Executar o Projeto
 
-1. Certifique-se de ter um servidor local instalado (ex: **XAMPP**, **WAMP** ou servidor embutido do PHP).
-2. Clone ou coloque os arquivos na pasta do servidor web (ex: `htdocs`).
-3. Abra o terminal na pasta do projeto e inicie o servidor PHP embutido (caso não use XAMPP):
-   ```bash
-   php -S localhost:8000
-   ```
 ---
 
 <div align="center">
